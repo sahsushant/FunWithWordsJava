@@ -39,11 +39,19 @@ It’s perfect for Java beginners to learn console input, string manipulation, a
 
 ## 📖 Sample Story Excerpt
 
-> It was a **spooky** morning at the zoo when I noticed some Capuchin monkeys eating breakfast.  
-> Suddenly, a violin started playing, and the monkeys stopped and listened intently!  
-> Nearby, a young elephant froze — one foot in the air — mesmerized by the music.  
-> Then I saw a tiger, **slimy** and **dancing**, slowly wake up...  
+> 🎵 A Day at the Magical Zoo 🎵  
+> ---------------------------------------------------  
+> The pandas were busy eating their breakfast,  
+> but the soothing violin soon attracted an audience...  
+> The elephant stood listening with deep attention, one foot raised from the ground...  
+> The tiger awoke, and lay down again and dozed...  
+> But at the first notes of the piccolo, the tiger sprang to its feet,  
+> bounded across the den, reared on its hind feet...  
+> The tiger ceased to rampaging and listened with joyful pleasure to the music.  
+> ---------------------------------------------------  
+> Oh, and here’s a fun fact: A group of flamingos is called a *flamboyance*!  
 > Thanks for going on this zoo adventure, **Sushant**! 🐯
+
 
 ---
 
