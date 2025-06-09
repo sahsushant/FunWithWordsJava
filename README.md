@@ -6,7 +6,7 @@ Welcome to **Fun With Words**, an interactive and fun Java console game where YO
 
 ## 🎯 Project Overview
 
-This project is a creative twist on the classic Mad Libs word game, developed in Java. It invites users to enter adjectives, nouns, and verbs, then generates a personalized story filled with unexpected and amusing moments.
+This is my very first Java project — a creative twist on the classic Mad Libs word game, developed in Java. It invites users to enter adjectives, nouns, and verbs, then generates a personalized story filled with unexpected and amusing moments.
 
 I’ve enhanced the basic tutorial version by adding:
 
@@ -16,6 +16,13 @@ I’ve enhanced the basic tutorial version by adding:
 - Fun facts about animals to keep you curious!  
 
 It’s perfect for Java beginners to learn console input, string manipulation, and randomization — all while having a blast!
+
+---
+
+## 🖥️ Prerequisites
+
+- Java Development Kit (JDK) 11 or higher installed  
+- Any Java IDE (Eclipse, IntelliJ IDEA, VS Code) or command line setup
 
 ---
 
@@ -62,6 +69,7 @@ Public domain (Project Gutenberg, 2020).
 ## 🙏 Acknowledgements
 
 Special thanks to the Bro Code YouTube tutorial that inspired this project!
+-https://www.youtube.com/@BroCodez
 
 ---
 
