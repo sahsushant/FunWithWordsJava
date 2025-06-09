@@ -19,19 +19,6 @@ public class Main {
         String adjective3;
         String playerName;
         
-        System.out.print("Enter an adjective (Name of a Zoo): ");
-        adjective1 = scanner.nextLine();
-        System.out.print("Enter a noun (Name of an Animal): ");
-        noun1 = scanner.nextLine();
-        System.out.print("Enter an adjective (musical instrument): ");
-        adjective2 = scanner.nextLine();
-        System.out.print("Enter a verb end with -ing (action): ");
-        verb1 = scanner.nextLine();
-        System.out.print("Enter an adjective (description): ");
-        adjective3 = scanner.nextLine();
-        System.out.print("Enter your name: ");
-        playerName = scanner.nextLine();
-
 
         System.out.print("Enter a word to describe a zoo (e.g., wild, magical): ");
         adjective1 = scanner.nextLine();
@@ -98,7 +85,7 @@ public class Main {
                 "Tigers have striped skin as well as striped fur.",
                 "Underneath their stripes, zebras have black skin."
         };
-        int randomNumber= (int) (Math.random()*20);
+        int randomNumber= random.nextInt(1,25);
         String randomFact = funFacts[randomNumber];
 
         System.out.println("\n\n🎵 A Day at the " + adjective1 + " Zoo 🎵\n");
