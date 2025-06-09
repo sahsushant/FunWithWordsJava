@@ -1,6 +1,6 @@
-# 🐾 Mad Libs Masterpiece - Java Edition
+# Fun With Words - Java Edition
 
-Welcome to **Mad Libs Masterpiece**, an interactive and fun Java console game where YOU create hilarious and surprising stories by filling in the blanks!
+Welcome to **Fun With Words**, an interactive and fun Java console game where YOU create hilarious and surprising stories by filling in the blanks!
 
 ---
 
